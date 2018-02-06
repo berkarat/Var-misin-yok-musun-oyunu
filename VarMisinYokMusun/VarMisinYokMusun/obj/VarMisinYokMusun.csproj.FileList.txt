@@ -1,0 +1,9 @@
+bin\Debug\VarMisinYokMusun.exe
+bin\Debug\VarMisinYokMusun.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\VarMisinYokMusun.Form1.resources
+obj\Debug\VarMisinYokMusun.Properties.Resources.resources
+obj\Debug\VarMisinYokMusun.csproj.GenerateResource.Cache
+obj\Debug\VarMisinYokMusun.exe
+obj\Debug\VarMisinYokMusun.pdb
+obj\Debug\VarMisinYokMusun.Form2.resources

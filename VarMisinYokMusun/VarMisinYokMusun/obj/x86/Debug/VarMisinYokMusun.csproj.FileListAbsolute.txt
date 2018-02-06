@@ -1,0 +1,17 @@
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\bin\Debug\VarMisinYokMusun.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\bin\Debug\VarMisinYokMusun.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.Form2.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.pdb
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.exe
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.pdb
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\bin\Debug\VarMisinYokMusun.exe
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\bin\Debug\VarMisinYokMusun.pdb
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.Form1.resources
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.Form2.resources
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.Properties.Resources.resources
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.csproj.GenerateResource.Cache
+C:\Users\hilal saim\Desktop\VarMisinYokMusun\VarMisinYokMusun\obj\x86\Debug\VarMisinYokMusun.csprojResolveAssemblyReference.cache
